@@ -3,7 +3,7 @@ const catalogo = require('./database/catalogo.json')
 const filmes = []
 
 const filmeUm = {
-    nomees: 'Gedeon'
+    nomees: 'Gedeon Cordeiro'
 }
 filmeUm.codigo = 120
 filmeUm.titulo = 'Filme Um'
